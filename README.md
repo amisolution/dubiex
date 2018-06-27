@@ -6,3 +6,4 @@ This repository contains dubiex related contracts developed by The Singularity G
 
 * DubiEx
 * ERC20 Token Generator
+* DubiEx exchange UI
