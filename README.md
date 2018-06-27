@@ -6,4 +6,6 @@ This repository contains dubiex related contracts developed by The Singularity G
 
 * DubiEx
 * ERC20 Token Generator
-* DubiEx exchange UI
+
+## User Interface:
+* DubiEx exchange UI is available here: https://amisolution.github.io/dubiex/ui
